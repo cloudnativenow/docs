@@ -1,6 +1,29 @@
-remote_theme: just-the-docs/just-the-docs
-# theme: just-the-docs
-# Color scheme supports "light" (default) and "dark"
-color_scheme: light
+# remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/images/company_logo_big.png"
+# Color scheme supports "light" (default) and "dark" and "servicenow"
+color_scheme: servicenow
+repository: cloudnativenow/docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Define Jekyll collections
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    docs:
+      # Give the collection a name
+      name: Documentation
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
