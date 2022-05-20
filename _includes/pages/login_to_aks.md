@@ -17,4 +17,4 @@
     kubectl get nodes -A
     ```
 
-    ![Boutique Frontend](/images/kubectl_cluster_info.png)    
+    ![Boutique Frontend](/assets/images/kubectl_cluster_info.png)    

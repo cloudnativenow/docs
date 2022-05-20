@@ -2,7 +2,7 @@
 
 A fork is a copy of a repository so you can leverage someone else's project as a starting point for your own ideas. Forking a repository allows you to freely experiment with changes without affecting the original upstream repository. We are leveraging [Google's Boutique application](https://github.com/GoogleCloudPlatform/microservices-demo) which we forked ourselves earlier under a new repository called `cassandra` where we customized it further for this site. 
 
-![Boutique Architecture](/images/boutique_architecture.png)
+![Boutique Architecture](/assets/images/boutique_architecture.png)
 
 Procedure is as follows:
 
