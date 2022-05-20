@@ -14,4 +14,4 @@ After all 12 Boutique Pods have been deployed, you should check all the pod stat
 
 1. Browse to the EXTERNAL-IP to view the Boutique Application
 
-    ![Boutique Frontend](/assets/images/boutique_frontend.png)
+    ![Boutique Frontend]({{ site.baseurl }}/assets/images/boutique_frontend.png)
