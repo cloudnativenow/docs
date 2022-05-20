@@ -2,7 +2,6 @@
 layout: default
 title: "Overview"
 nav_order: 1
-description: These brief instructions will help you get started quickly with Cloud Native Service Operations (CNSO) Solutions for ServiceNow.
 permalink: /
 ---
 
