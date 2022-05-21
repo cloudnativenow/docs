@@ -5,6 +5,9 @@ parent: Microservice Visibility
 nav_order: 2
 ---
 
+# Guide
+{: .no_toc }
+
 ## Table of contents
 {: .no_toc .text-delta }
 
