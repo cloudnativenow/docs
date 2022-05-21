@@ -1,6 +1,6 @@
-### Install Site Reliability Operations
+### Install Site Reliability Operations (SRO)
 
-Site Reliability Operations increases the visibility of microservices in a single workspace by onboarding distributed teams and registering services in minutes. ​Quickly connect services to telemetry via Webhook integrations and resolve incidents faster with alert automation. Installation is as folows:
+Site Reliability Operations (SRO) increases the visibility of microservices in a single workspace by onboarding distributed teams and registering services in minutes. ​Quickly connect services to telemetry via Webhook integrations and resolve incidents faster with alert automation. Installation is as folows:
 
 1. Login to your SN Instance as Administrator
 
