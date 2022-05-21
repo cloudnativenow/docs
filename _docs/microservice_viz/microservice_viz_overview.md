@@ -37,4 +37,4 @@ Increase the visibility of Cloud Native microservices in a single Workspace. Qui
 
 ## Next Steps
 
-* Follow the [Guide](microservice_viz_guide) to implement in your environment.
+* Follow the [Guide](/docs/microservice_viz/microservice_viz_guide) to implement in your environment.
