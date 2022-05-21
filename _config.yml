@@ -1,5 +1,5 @@
-remote_theme: just-the-docs/just-the-docs
-# theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/company_logo_big.png"
 
@@ -24,7 +24,7 @@ plugins:
 # Define Jekyll collections
 collections:
   docs:
-    permalink: "/:collection/:path/"
+    # permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
