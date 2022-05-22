@@ -3,6 +3,8 @@ layout: default
 title: Overview
 parent: Microservice Visibility
 nav_order: 1
+introduction: Increase the visibility of Cloud Native microservices in a single Workspace. Quickly register services in minutes via REST and onboard your distributed teams. Connect your services to telemetry via Webhook integration and resolve incidents faster with alert automation.
+dataflow: /assets/images/visibility_dataflow.png
 ---
 
 # Overview
@@ -16,11 +18,11 @@ nav_order: 1
 
 ## Introduction
 
-Increase the visibility of Cloud Native microservices in a single Workspace. Quickly register services in minutes via REST and onboard your distributed teams. Connect your services to telemetry via Webhook integration and resolve incidents faster with alert automation.
+{{ page.introduction }}
 
 ## Dataflow
 
-![Dataflow]({{ site.baseurl }}/assets/images/visibility_dataflow.png)
+![Dataflow]({{ page.dataflow }})
 
 1. Deploy Boutique Microservices App to the `Azure Kubernetes` environment.
 1. Update the Boutique YAML File and verify all services and relationships are valid.
