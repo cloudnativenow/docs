@@ -22,7 +22,7 @@ dataflow: /assets/images/visibility_dataflow.png
 
 ## Dataflow
 
-![Dataflow]({{ page.dataflow }})
+![Dataflow]({{ site.baseurl }}{{ page.dataflow }})
 
 1. Deploy Boutique Microservices App to the `Azure Kubernetes` environment.
 1. Update the Boutique YAML File and verify all services and relationships are valid.
