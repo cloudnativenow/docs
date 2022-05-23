@@ -1,4 +1,5 @@
-baseurl: /docs # the subpath of your site, e.g. /blog
+# the subpath of your site, e.g. /blog or /
+# baseurl: /pages
 # url: "https://just-the-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Permalink
@@ -33,13 +34,14 @@ plugins:
 collections:
   pages:
     # permalink: "/:collection/:path/"
+    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
-  # Define which collections are used in just-the-docs
+ # Define which collections are used in just-the-docs
   collections:
     pages:
-      name: Documentation
+      name: Pages
       nav_exclude: false
       search_exclude: false
 
