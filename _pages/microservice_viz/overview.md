@@ -42,5 +42,5 @@ dataflow: /assets/images/visibility_dataflow.png
 
 ## Next Steps
 
-* Follow the [Guide](guide) to implement in your environment.
+* Follow the [Guide]({{ site.baseurl }}/pages/microservice_viz/guide) to implement in your environment.
 
