@@ -12,7 +12,7 @@ Procedure is as follows:
 
     | Field | Value |
     |-------|-------|
-    | Your old repository’s clone URL  | https://github.com/pangealab/cassandra.git |
+    | Your old repository’s clone URL  | https://github.com/cloudnativenow/cassandra.git |
     | Your new repository owner | YOUR GIT ACCOUNT | 
     | Your new repository name | Any memorable name (e.g. `cassandra`) |
     | Privacy | `Public` |
